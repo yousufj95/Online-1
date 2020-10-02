@@ -1,0 +1,26 @@
+@media only screen and (max-width: 767px) and (min-width: 320px)  {
+    img.img-fld {
+    width: 100%;
+    height: auto;
+}
+ .imgnet {
+    width: 100%;
+} 
+    .about-title {
+    font-size: 36px;
+}
+    a.navbar-brand {
+    width: 80%;
+    float: left;
+}
+    .navbar-brand img {
+    padding-left: 0;
+    width: 55px;
+}
+}
+@media only screen and (max-width: 1024px) and (min-width: 768px)  {
+    
+}
+@media only screen and (max-width: 1366px) and (min-width: 1024px)  {
+    
+}
